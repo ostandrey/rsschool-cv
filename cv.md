@@ -53,3 +53,25 @@ I`m a Front-end developer with 2+ years experience. Experience in developing web
   - Technologies: HTML, SCSS, Next.js, Sanity, Stripe
 - [Pets](https://github.com/ostandrey/react-pets)
   - Technologies: HTML, SCSS, ReactJS
+
+---
+
+### Education
+
+**Master`s in Computer Engineering**
+National University "Yuri Kondratyuk Poltava Polytechnic" at Poltava, Ukraine | September 2019 - December 2021
+
+**Bachelor`s in Computer Engineering**
+National University "Yuri Kondratyuk Poltava Polytechnic" at Poltava, Ukraine | September 2016 - December 2019
+
+**Cisco Networking Academy**
+CCNA Routing and Switching: Introduction to Networks
+
+**Cisco Networking Academy**
+CCNA Routing and Switching: Routing and Switching Essentials
+
+---
+
+### English
+
+B1 (learn english with teacher and use platform - EnglishDOM)
