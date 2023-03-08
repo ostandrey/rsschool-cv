@@ -41,3 +41,14 @@ I`m a Front-end developer with 2+ years experience. Experience in developing web
         ? s.substring(middlePosition + 1, middlePosition) : s
     }
 ```
+
+---
+
+### Experience
+
+- [Metaversus](https://metaversus-two.vercel.app/)
+  - Technologies: HTML, TailwindCSS, Framer Motion, Next.js
+- [Gadget shop](https://next-ecommerce-sanity-stripe-smoky.vercel.app/)
+  - Technologies: HTML, SCSS, Next.js, Sanity, Stripe
+- [Pets](https://github.com/ostandrey/react-pets)
+  - Technologies: HTML, SCSS, ReactJS
