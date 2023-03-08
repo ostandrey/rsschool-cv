@@ -1,3 +1,5 @@
+![Me!](/assets/me.jpg "Me")
+
 # Andrii Ostapov
 
 #### Front-end Developer
