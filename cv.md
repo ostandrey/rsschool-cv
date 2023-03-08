@@ -26,3 +26,18 @@ I`m a Front-end developer with 2+ years experience. Experience in developing web
 - Redux
 - Git
 - VS Code, WebStorm
+
+---
+
+### Code example
+
+**The issue frome the Codewars:** Return the middle character of the word. If the word's length is odd, return the middle character. If the word's length is even, return the middle 2 characters.
+
+```
+    function getMiddle(s) {
+      let middlePosition = s.length / 2;
+      return s.length % 2 === 0
+        ? s.substring(middlePosition - 1, middlePosition + 1) : s.length % 2 === 1
+        ? s.substring(middlePosition + 1, middlePosition) : s
+    }
+```
